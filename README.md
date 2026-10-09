@@ -1,3 +1,4 @@
 # **本插件由ai制作，有无数的石山代码，各位开发者、校友们请细细斟酌，修改。**
 
 源码与未签名插件均在本仓库中，亦可通过[插件市场](https://plugins.hidisiwa.xyz/)获取。
+[教务助手APP仓库](https://github.com/znjhahaha/zhengfang-apk)
